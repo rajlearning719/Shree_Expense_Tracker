@@ -1,8 +1,11 @@
 __MACOSX/
 .DS_Store
 *.db
+expense_tracker.db
 venv/
 __pycache__/
 *.pyc
 *.pyo
 .pytest_cache/
+.env
+.claude/plans/
